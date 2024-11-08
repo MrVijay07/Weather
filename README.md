@@ -19,7 +19,7 @@ To get started with the Weather App, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/kappalasaimohith/Weather.git
+   git clone https://github.com/MrVijay07/Weather.git
    cd Weather
    ```
 2. **Initialize package.json**:
